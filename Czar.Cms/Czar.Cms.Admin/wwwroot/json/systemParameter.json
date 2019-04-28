@@ -1,0 +1,14 @@
+{
+	"cmsName": "Czar.CMS后台管理",
+	"version": "v1.0",
+	"author": "小鼠",
+	"homePage": "index.html",
+	"server": "windows",
+	"dataBase": "8.00.2039",
+	"maxUpload": "2M",
+	"userRights": "超级管理员",
+	"description": "这是小鼠第一次尝试net core",
+	"powerby": "copyright @2019 小鼠",
+	"record": "京ICP备14040xxx号-1",
+	"keywords": ""
+}
